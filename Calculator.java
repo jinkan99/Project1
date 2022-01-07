@@ -1,5 +1,5 @@
 package GitPractice;
-
+/* This program is a demo of a simple calculator */
 import java.util.Scanner;
 
 public class Calculator
@@ -58,4 +58,5 @@ public class Calculator
         }while(choice != 5);
     }
 }
+
 
